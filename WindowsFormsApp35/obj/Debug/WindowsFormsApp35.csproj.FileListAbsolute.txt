@@ -1,0 +1,11 @@
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb
+C:\Users\Kgomotso\source\repos\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe.config
